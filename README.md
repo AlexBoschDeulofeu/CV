@@ -1,13 +1,11 @@
 # CV — Àlex Bosch
 1) User Persona
-
 My name is Àlex Bosch. I am a student from Sant Feliu de Guíxols.  
 I am a hard-working person who likes to learn new things and work in a team.  
 I made this website to show my CV online in a simple and modern way.  
 It helps me present myself better when I apply for jobs or internships.  
 The main goal is to show who I am, what experience I have, and how to contact me.  
 The CV is also easy to read for people from companies or anyone who wants to know more about me.
-
 2) Information Architecture
 The website is only one page. At the top, there is my photo with a color background, so people can recognize me fast.  
 Under that, you can see my name and my role as a student. Then there is a short text that explains a bit about me.  
@@ -29,5 +27,5 @@ The text is big enough, and there is space between the elements, so everything i
 On a mobile phone, the page adapts and everything is centered.  
 I wanted the final result to look simple, clean, and a bit creative, like me.
 
-4)Figma link
+4) Figma link
 https://www.figma.com/design/WPRWEjNBCKxrmTaAvSACDX/Template-Curriculum-Vitae--Community-?node-id=701-333&t=CCD9ZWeftd2r5TdM-1
