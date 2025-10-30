@@ -28,3 +28,6 @@ I used rounded corners and soft shadows on the main card so it looks friendly.
 The text is big enough, and there is space between the elements, so everything is clear.  
 On a mobile phone, the page adapts and everything is centered.  
 I wanted the final result to look simple, clean, and a bit creative, like me.
+
+4)Figma link
+https://www.figma.com/design/WPRWEjNBCKxrmTaAvSACDX/Template-Curriculum-Vitae--Community-?node-id=701-333&t=CCD9ZWeftd2r5TdM-1
